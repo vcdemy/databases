@@ -7,6 +7,8 @@
 * [PostgreSQL Server](https://www.postgresql.org/)
 * [資料庫管理工具：pgadmin](https://www.pgadmin.org/)
 
+`PostgreSQL`安裝時通常會連帶地安裝命令列工具`psql`，使用者可以直接從命令列打入`psql`開始使用`PostgreSQL`，或使用另外安裝的`pgadmin`來管理`PostgreSQL`。
+
 ## 2. 使用 docker 執行 postgresql
 
 ### 安裝docker destop
