@@ -2,15 +2,18 @@
 
 ## 1. 在本地端安裝 postgresql
 
-官網：https://www.postgresql.org/
+請至下方兩個連結在電腦上安裝`PostgreSQL Sever`及`pgadmin`。
 
-pgadmin：https://www.pgadmin.org/
+* [PostgreSQL Server](https://www.postgresql.org/)
+* [資料庫管理工具：pgadmin](https://www.pgadmin.org/)
 
 ## 2. 使用 docker 執行 postgresql
 
 ### 安裝docker destop
 
-連結：https://www.docker.com/products/docker-desktop/
+請至下方連結選擇對應的docker desktop安裝。
+
+* [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 ### 啟動 postgresql server
 
