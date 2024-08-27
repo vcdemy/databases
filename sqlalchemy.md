@@ -8,12 +8,20 @@ pip install sqlalchemy
 
 依想要連接的資料庫，可能需要安裝不同的資料庫連接套件。
 
+譬如：
+
 ```python
 # mysql
-pip install mysql
+pip install pymysql
+```
 
+```python
 # postgresql
 pip install psycopg2
+
+# 或安裝 psycopg2-binary
+# psycopg2-binary會同時安裝postgresql相依的前端程式庫，但佈署時建議安裝psycopg2。
+pip install psycopg2-binary
 ```
 
 ## 連線資料庫
