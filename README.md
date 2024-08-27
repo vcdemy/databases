@@ -1,5 +1,11 @@
 # Python存取資料庫教學
 
+## 關於唯客學院
+
+* [唯客學院網址](https://www.vcdemy.com)
+* [唯客學院粉絲專頁](https://www.facebook.com/vcdemy/)
+* [唯客學院線上課程](https://vcdemy.teachable.com)
+
 ## 常用資料庫官網連結
 
 * SQLite (不用安裝！python內建的sqlite3模組可以直接存取sqlite資料庫。)
