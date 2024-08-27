@@ -16,7 +16,7 @@ pip install sqlalchemy
 # mysql
 pip install pymysql
 # 或
-pip install mysql.connector
+pip install mysql-connector-python
 ```
 
 ```python
